@@ -121,4 +121,4 @@ Movie-Recommendation-System/
 
 ## 👨‍💻 Author
 
-Developed as part of the **CodeAlpha Internship** to demonstrate the implementation of a Content-Based Movie Recommendation System using Machine Learning techniques.
+Developed by Prem Bhoi as a hands-on project to practice and demonstrate the implementation of a Content-Based Movie Recommendation System using Machine Learning techniques.
